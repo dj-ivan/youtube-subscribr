@@ -90,7 +90,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		aUqdxOPRPnWOh0VOxlkS8xqNlkA=
+		flaxo+TvULy+36LqoN6RvNPwfF4=
 		</data>
 		<key>LaunchImage-568h@2x.png</key>
 		<data>
@@ -178,11 +178,11 @@
 		</data>
 		<key>app/app.component.js</key>
 		<data>
-		/6lCl9Zi1AN6RGTnmgJaFwDrZWc=
+		UN7JSwGK71PJ/7xYO3Y8NDrdh3g=
 		</data>
 		<key>app/app.component.ts</key>
 		<data>
-		5vNXEdkJbrpxNRbNmRNKjML/fK4=
+		OmymWE51uOvoUDLKVlgQ/XrjD78=
 		</data>
 		<key>app/app.css</key>
 		<data>
@@ -190,11 +190,11 @@
 		</data>
 		<key>app/app.module.js</key>
 		<data>
-		fTLNQlXNWzjJ8Npfop8G5rZK+ts=
+		AobwyK81wqsbW77JaC4o5FZT2LU=
 		</data>
 		<key>app/app.module.ts</key>
 		<data>
-		0mblS+jBR4OcXD1343p6qOk3bso=
+		UufLm9xh5U8V8D2L/Rcu3ua16CA=
 		</data>
 		<key>app/images/apple.jpg</key>
 		<data>
@@ -215,6 +215,14 @@
 		<key>app/package.json</key>
 		<data>
 		j3JgHjHg4vdJsU9vQSeRWPc9zS0=
+		</data>
+		<key>app/services/youtube-channel.service.js</key>
+		<data>
+		jFOmnOyg0CB0+pIe+j6TkuCuyUo=
+		</data>
+		<key>app/services/youtube-channel.service.ts</key>
+		<data>
+		jIF2EEVJ8jk5onn2MmkubLWhaEs=
 		</data>
 		<key>app/tns_modules/@angular/animations/@angular/animations.es5.js</key>
 		<data>
@@ -11779,22 +11787,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			/6lCl9Zi1AN6RGTnmgJaFwDrZWc=
+			UN7JSwGK71PJ/7xYO3Y8NDrdh3g=
 			</data>
 			<key>hash2</key>
 			<data>
-			pRL+DvHt1cCvnk3T7asFQZVtNXts/dmo2kjRxMn7EI4=
+			Ip9hmgU0sS29Gw4tlkRFFvQmOjU8zp3YLuRA1vu43U0=
 			</data>
 		</dict>
 		<key>app/app.component.ts</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			5vNXEdkJbrpxNRbNmRNKjML/fK4=
+			OmymWE51uOvoUDLKVlgQ/XrjD78=
 			</data>
 			<key>hash2</key>
 			<data>
-			9ziOkTbf3wBua7OoXzYF2xhMw/2dZ9/MZa5E3ydaELI=
+			arkeeuiSkQ5pMV44w2f14kFRvpENftSgIFtkznEiRZU=
 			</data>
 		</dict>
 		<key>app/app.css</key>
@@ -11812,22 +11820,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			fTLNQlXNWzjJ8Npfop8G5rZK+ts=
+			AobwyK81wqsbW77JaC4o5FZT2LU=
 			</data>
 			<key>hash2</key>
 			<data>
-			ol2Hj5e+e6VFNAD7oidUPLZSQbeMSKHJPQKikEYtBqg=
+			TnlTJME1v3etnXLQGxBeUsOM0O3TSzjsV0j22wBlzGc=
 			</data>
 		</dict>
 		<key>app/app.module.ts</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			0mblS+jBR4OcXD1343p6qOk3bso=
+			UufLm9xh5U8V8D2L/Rcu3ua16CA=
 			</data>
 			<key>hash2</key>
 			<data>
-			qJ7GepKAdQXc/JXjEq9at8RQuFPUthvE+V3sPjdeyz8=
+			JvUphTMKx7vnTfszxj8AvoUTTwq7+OTBsWlOhwoh3jA=
 			</data>
 		</dict>
 		<key>app/images/apple.jpg</key>
@@ -11883,6 +11891,28 @@
 			<key>hash2</key>
 			<data>
 			DuV0C2oDS9d4edHZp929Gx8uN5l1Z+nElqyoy4pYqiw=
+			</data>
+		</dict>
+		<key>app/services/youtube-channel.service.js</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			jFOmnOyg0CB0+pIe+j6TkuCuyUo=
+			</data>
+			<key>hash2</key>
+			<data>
+			Ny6ShxfsNo3RW+eFQCB5Z3GD8FVZmAtFi44a1p5oTBs=
+			</data>
+		</dict>
+		<key>app/services/youtube-channel.service.ts</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			jIF2EEVJ8jk5onn2MmkubLWhaEs=
+			</data>
+			<key>hash2</key>
+			<data>
+			jyXLZ9F2lFx9QrJ+aQNZr48qAan8bZ5Dj4yNKB28WBY=
 			</data>
 		</dict>
 		<key>app/tns_modules/@angular/animations/@angular/animations.es5.js</key>

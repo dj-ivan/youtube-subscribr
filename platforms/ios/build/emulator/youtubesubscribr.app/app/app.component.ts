@@ -1,4 +1,5 @@
 import { Component } from "@angular/core";
+import { YouTubeChannelService } from '../platforms/ios/youtubesubscribr/app/services/youtube-channel.service';
 
 @Component({
   selector: "my-app",
@@ -10,4 +11,8 @@ import { Component } from "@angular/core";
 })
 export class AppComponent {
   // Your TypeScript logic goes here
+
+  constructor(private youTubeService: YouTubeChannelService){
+    this.youTubeService.getIvanStats();
+  }
 }
